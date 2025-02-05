@@ -1,12 +1,8 @@
-## Olá, Me chamo Evelyn, hoje busco aperfeiçoar minhas habilidades como developer font-end. Gostaria de acompanhar? 
+## Olá, Me chamo Evelyn. 
+<h5> 
+Hoje busco aperfeiçoar minhas habilidades como developer front-end. Gostaria de me acompanhar?
 
-<picture>
-  <source
-    srcset="https://github.com/EvelynMayara/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?EvelynMayara=anuraghazra&show_icons=true" />
-</picture>
+</h5>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
